@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64447E14-79F1-440A-B2AC-302687D5E5CA}|TodoApp\\TodoApp.csproj|c:\\users\\asus\\desktop\\mvc1\\todoapp\\todoapp\\views\\todo\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64447E14-79F1-440A-B2AC-302687D5E5CA}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todo\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64447E14-79F1-440A-B2AC-302687D5E5CA}|TodoApp\\TodoApp.csproj|c:\\users\\asus\\desktop\\mvc1\\todoapp\\todoapp\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64447E14-79F1-440A-B2AC-302687D5E5CA}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64447E14-79F1-440A-B2AC-302687D5E5CA}|TodoApp\\TodoApp.csproj|c:\\users\\asus\\desktop\\mvc1\\todoapp\\todoapp\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64447E14-79F1-440A-B2AC-302687D5E5CA}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64447E14-79F1-440A-B2AC-302687D5E5CA}|TodoApp\\TodoApp.csproj|c:\\users\\asus\\desktop\\mvc1\\todoapp\\todoapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64447E14-79F1-440A-B2AC-302687D5E5CA}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64447E14-79F1-440A-B2AC-302687D5E5CA}|TodoApp\\TodoApp.csproj|c:\\users\\asus\\desktop\\mvc1\\todoapp\\todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64447E14-79F1-440A-B2AC-302687D5E5CA}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64447E14-79F1-440A-B2AC-302687D5E5CA}|TodoApp\\TodoApp.csproj|c:\\users\\asus\\desktop\\mvc1\\todoapp\\todoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64447E14-79F1-440A-B2AC-302687D5E5CA}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64447E14-79F1-440A-B2AC-302687D5E5CA}|TodoApp\\TodoApp.csproj|c:\\users\\asus\\desktop\\mvc1\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64447E14-79F1-440A-B2AC-302687D5E5CA}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64447E14-79F1-440A-B2AC-302687D5E5CA}|TodoApp\\TodoApp.csproj|c:\\users\\asus\\desktop\\mvc1\\todoapp\\todoapp\\todoapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{64447E14-79F1-440A-B2AC-302687D5E5CA}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\todoapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\TodoApp\\Views\\Todo\\Update.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\TodoApp\\Views\\Todo\\Update.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\Update.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T21:54:39.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\TodoApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\TodoApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TodoApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:18:26.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\TodoApp\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\TodoApp\\Models\\Todo.cs",
+              "RelativeToolTip": "TodoApp\\Models\\Todo.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:18:09.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\TodoApp\\Views\\Todo\\create.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\create.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\TodoApp\\Views\\Todo\\create.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T15:11:27.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\TodoApp\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\TodoApp\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T14:40:48.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\TodoApp\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\TodoApp\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoApp\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwEMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:21:45.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoApp",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\TodoApp\\TodoApp.csproj",
+              "RelativeDocumentMoniker": "TodoApp\\TodoApp.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\TodoApp\\TodoApp.csproj",
+              "RelativeToolTip": "TodoApp\\TodoApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T11:54:33.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\MVC1\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeToolTip": "TodoApp\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:05:55.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
